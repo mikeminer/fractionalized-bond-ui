@@ -8,7 +8,7 @@ import { newKitFromWeb3 } from "@celo/contractkit";
 import BigNumber from "bignumber.js";
 import FractionalizedNFTABI from "./abi/FractionalizedNFTABI.json";
 
-const contractAddress = "0xf246Ee53756374ED3eFb597d7e39Fa26Ee0503Ad"; // change this contract address
+const contractAddress = "0x600F166d5Bd675899aB90357F2C1DE2B5E4F7518"; // change this contract address
 
 const ERC20_DECIMALS = 18;
 
